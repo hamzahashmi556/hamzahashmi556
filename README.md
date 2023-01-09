@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-### I am a computer science graduating from UBIT, University of Karachi on 2025
+### I am Computer Science Under Graudate from UBIT, University of Karachi
+
+### I am currently working as a iOS app Developer
+
+### I am interested in Machine Learning & Artificial Intelligence
 
 <!--
 **hamzahashmi556/hamzahashmi556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
