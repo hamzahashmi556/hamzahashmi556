@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-### I am Computer Science Under Graudate from UBIT, University of Karachi
-
-### I am currently working as a iOS app Developer
-
-### I am interested in Machine Learning & Artificial Intelligence
+- I am Computer Science Under Graudate from UBIT, University of Karachi
+- I am currently working as a iOS app Developer
+- I am interested in Machine Learning & Artificial Intelligence
 
 
 ### LANGUGAGES & TOOLS
