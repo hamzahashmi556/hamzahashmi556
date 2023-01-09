@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I am a computer science graduating from UBIT, University of Karachi on 2025
+
 <!--
 **hamzahashmi556/hamzahashmi556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
