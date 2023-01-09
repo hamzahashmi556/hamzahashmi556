@@ -6,6 +6,16 @@
 
 ### I am interested in Machine Learning & Artificial Intelligence
 
+
+### LANGUGAGES & TOOLS
+- Swift
+- SwiftUI & UIKIT
+- Xcode & Simulators
+- Firebase
+- Coredata & Realm Database
+
+
+
 <!--
 **hamzahashmi556/hamzahashmi556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
