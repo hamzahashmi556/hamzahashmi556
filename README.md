@@ -13,7 +13,7 @@
 ![simulator_2](https://github.com/hamzahashmi556/hamzahashmi556/assets/68464273/2bf490a8-f1b1-4462-a492-0a787ae861d5)
 ![firebase](https://github.com/hamzahashmi556/hamzahashmi556/assets/68464273/7bed2d0b-abe2-45c3-8251-c1aa5b18cfe9)
 
-Swift  SwiftUI  Xcode  Simulator  Firebase
+Swift     SwiftUI     Xcode     Simulator     Firebase
 
 
 - UIKIT
