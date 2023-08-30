@@ -4,6 +4,13 @@
 - I am currently working as a iOS app Developer
 - I am interested in Machine Learning & Artificial Intelligence
 
+  | Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|     Swift     |
+|     2|     Python    |
+|     3|     C#        |
+
+
 
 ### LANGUGAGES & TOOLS
 
