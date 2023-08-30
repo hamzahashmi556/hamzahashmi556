@@ -33,11 +33,14 @@
 
 ### LANGUGAGES & TOOLS
 
-![swift](https://github.com/hamzahashmi556/hamzahashmi556/assets/68464273/9ee6d55f-d05b-4198-8470-7c8861711561)
-![swiftui](https://github.com/hamzahashmi556/hamzahashmi556/assets/68464273/8821bfa2-34d7-404a-b523-2198acd2cc55)
-![Xcode_14_icon](https://github.com/hamzahashmi556/hamzahashmi556/assets/68464273/262c3bf1-f826-4675-a4b0-f01f86822d47)
-![simulator_2](https://github.com/hamzahashmi556/hamzahashmi556/assets/68464273/2bf490a8-f1b1-4462-a492-0a787ae861d5)
-![firebase](https://github.com/hamzahashmi556/hamzahashmi556/assets/68464273/7bed2d0b-abe2-45c3-8251-c1aa5b18cfe9)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/swiftui-%230095D5.svg?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-%230095D5.svg?style=for-the-badge&logo=uikit&logoColor=white)
+![XCODE](https://img.shields.io/badge/xcode-%230095D5.svg?style=for-the-badge&logo=xcode&logoColor=white)
+![Simulator](https://img.shields.io/badge/simulator-%230095D5.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
 
